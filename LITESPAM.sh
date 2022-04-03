@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 clear
-git clone https://github.com/amsitlab/smsid-java.git
-cd ./smsid-java
+git clone https://github.com/1mmdfederal/mmdfederal.git
+cd ./mmdfederal
 chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
@@ -129,7 +129,7 @@ echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
 echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
 echo
 echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
+echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/mmdfederal/"
 sleep 6
 smsid boom -y
 fi
@@ -151,7 +151,7 @@ echo "\033[32;1mVersi: v3"
 sleep 1
 echo "\033[36;1mTeam: Indonesia Security Lite"
 sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
+echo "\033[31;1mSubscribe Rubika""\033[37;1m @cr_federal"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Danz"
