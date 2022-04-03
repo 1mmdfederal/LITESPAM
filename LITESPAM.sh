@@ -1,7 +1,7 @@
 #!/system/xbin/bash
 clear
-git clone https://github.com/1mmdfederal/mmdfederal.git
-cd ./mmdfederal
+git clone https://github.com/1mmdfederal/cr_federal.git
+cd ./cr_federal
 chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
@@ -129,7 +129,7 @@ echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
 echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
 echo
 echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/mmdfederal/"
+echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/1mmdfederal/"
 sleep 6
 smsid boom -y
 fi
